@@ -107,4 +107,4 @@ The signing service remains a separate process. A valid `MONGODB_URI` setting is
 
 ## Licence
 
-No licence file is included in the repository. The server package declares ISC; the root package does not declare a licence.
+**Server licence declaration: ISC.** See [server/package.json](server/package.json). The [root package](package.json) has no licence declaration. No standalone licence file is included in this repository.
